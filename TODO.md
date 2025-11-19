@@ -1,0 +1,10 @@
+- [x] Create app.py with Flask setup and imports
+- [x] Load rf_model.pkl and scaler.pkl
+- [x] Define preprocessing function to handle input data
+- [x] Define /predict POST endpoint for prediction
+- [x] Test the app by running it
+- [x] Create templates/index.html with HTML form for inputting features
+- [x] Add basic CSS styling to the form
+- [x] Add JavaScript to submit form data to /predict endpoint and display result
+- [x] Update app.py to serve the HTML page at root route
+- [x] Test the full app with frontend
